@@ -6,7 +6,7 @@ works out.
 
 
 How to run-
-1. Make sure you have the following libraries installed by running the following command in your terminal - '''pip install opencv-python mediapipe numpy pygame''' .
+1. Make sure you have the following libraries installed by running the following command in your terminal - ```pip install opencv-python mediapipe numpy pygame``` .
 4. Make sure your IDE or environment is given webcam permission.
 5. If your camera displays a black screen change the camera index with the "camera_index" variable, setting it to a number which makes your camera work.
 
